@@ -1,4 +1,6 @@
-> > ### good-pastel.github.io/sample-portfolio-1
+# Sample-Portfolio-1
+
+> [[sample-portfolio-1](https://good-pastel.github.io/sample-portfolio-1)]
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
