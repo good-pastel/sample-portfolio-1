@@ -13,13 +13,25 @@
   <h3 align="center">Welcome to Good Pastel</h3>
 
   <p align="center">
-   I'm a beginner who learn about website coding.
-    <br />
+   <blockquote><i>"Colors fade, but pastels hold their magic forever. Let the pastels be a reflection of the beauty within your soul."</i></blockquote>
+   <br />
     <a href="https://github.com/good-pastel?tab=repositories"><strong>Explore the other Repo»</strong></a>
   </p>
 </div>
 
 ---
+
+## Description
+
+I built portfolio web sample using [bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/introduction/).
+
+## Language
+
+<img src="https://i.ibb.co/8rFywQ9/1.png">
+<br>
+<br>
+<br>
+&copy Good Pastel. 2024
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
