@@ -39,7 +39,7 @@ a.social {
     max-height: 50px;
 }
 .kontak {
-    background: url("/img/1867010.webp") no-repeat center center;
+    background: url("img/1867010.webp") no-repeat center center;
     background-size: cover;
     padding-bottom: 20%;
     padding-top: 20%;
