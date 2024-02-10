@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/good-pastel/good-pastel.github.io">
-    <img src="https://raw.githubusercontent.com/good-pastel/logos/main/20240210_203339_0000.png" alt="Header" width="500" height="500">
+    <img src="https://raw.githubusercontent.com/good-pastel/logos/main/20240210_203339_0000.png" alt="Header">
   </a>
 
   <h3 align="center">Welcome to Good Pastel</h3>
