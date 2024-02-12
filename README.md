@@ -25,13 +25,8 @@
 
 I built portfolio web sample using [bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/introduction/).
 
-## Languages
 
-<img src="https://i.ibb.co/8rFywQ9/1.png">
-<br>
-<br>
-<br>
-&copy Good Pastel. 2024
+&copy; Good Pastel. 2024
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
