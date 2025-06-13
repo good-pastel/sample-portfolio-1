@@ -30,5 +30,5 @@ I built portfolio web sample using [bootstrap 5](https://getbootstrap.com/docs/5
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[linkedin-shield]: https://svgur.com/i/12Gy.svg
+[linkedin-shield]: https://raw.githubusercontent.com/good-pastel/good-pastel.github.io/0081ddd54c76b5249abd15a39df972e47ad32547/img/icons8-linkedin.svg
 [linkedin-url]: https://linkedin.com/in/deviyool
